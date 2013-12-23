@@ -1,6 +1,6 @@
 '''
 Created on Dec 23, 2013
 
-@author: karramsos
+@author: Sukhvinder Singh | @karramsos
 '''
 print("Hello Github")
