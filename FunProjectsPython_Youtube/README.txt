@@ -3,7 +3,7 @@ FunProjectsPython
 
 Sukhvinder Singh | karramsos@gmail.com | @karramsos
 
-Fun Projects with Python - excersize coding and feel awesome
+Fun Projects with Python - excersise coding and feel awesome
 
 All project in this repository is meant for excersicing coding skills in Python.
 And have fun!
